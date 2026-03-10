@@ -63,18 +63,6 @@ Python project that collects market candle data using API and WebSocket connecti
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wiztarp&show_icons=true&theme=tokyonight)
-
----
-
-## Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wiztarp&layout=compact&theme=tokyonight&langs_count=6)
-
----
-
 ## Contact
 
 LinkedIn: www.linkedin.com/in/kenny-brisola-b27238191
