@@ -1,72 +1,81 @@
-# Hello! I'm Kenny Brisola 👋
+# Kenny Brisola
 
-💻 **Software Developer**  
-📍 São Paulo, Brazil  
+Software Developer focused on building automation tools, enterprise systems and financial integrations.
 
-Passionate about building systems, automation and financial integrations.
-
----
-
-# 🚀 About Me
-
-- 💻 Software Developer focused on **.NET and C#**
-- 🏦 Experience with **banking integrations and automation**
-- ⚙️ Development of **enterprise systems and APIs**
-- 📊 Interested in **financial systems and trading analysis**
-- 🎓 Currently studying **Systems Analysis and Development (FIAP)**
+📍 São Paulo, Brazil
 
 ---
 
-# 🧠 Tech Stack
+## About Me
 
-### Backend
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+Software developer with experience in building corporate systems, banking integrations and automation solutions.
 
-### Web
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge)
-![Razor Pages](https://img.shields.io/badge/Razor%20Pages-512BD4?style=for-the-badge)
+Main areas of interest:
 
-### Database
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+- Enterprise systems development
+- Financial systems
+- Automation and data processing
+- APIs and backend development
 
-### Automation / Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+Currently studying **Systems Analysis and Development (FIAP)** while continuously improving my technical skills.
 
 ---
 
-# 📂 Featured Projects
+## Main Technologies
 
-🔹 **FIIs Analyzer**  
-ASP.NET Core application for analyzing real estate investment funds.
+**Languages**
 
-🔹 **TradeIA Brisola**  
-AI-powered trading analysis using screenshot capture and API integration.
+- C#
+- Python
+- SQL
 
-🔹 **BotGraficoTrader**  
-Desktop automation tool for capturing trading charts.
+**Frameworks & Tools**
 
-🔹 **Controle de Vendas**  
-Sales management system developed in C#.
+- .NET
+- ASP.NET Core
+- Razor Pages
+- Entity Framework Core
+- Windows Forms
 
-🔹 **Market Data Collector**  
-Python project for collecting market candle data using APIs.
+**Databases**
 
----
-
-# 📊 GitHub Stats
-
-![Kenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=wiztarp&show_icons=true&theme=tokyonight)
+- SQL Server
+- SQLite
 
 ---
 
-# 📈 Most Used Languages
+## Featured Projects
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiztarp&layout=compact&theme=tokyonight)
+### FIIs Analyzer
+ASP.NET Core application for analyzing real estate investment funds using Entity Framework and SQLite.
+
+### TradeIA Brisola
+Desktop system that captures trading charts and sends them for AI-based analysis.
+
+### BotGraficoTrader
+Automation tool developed in C# for capturing chart screenshots automatically.
+
+### Controle de Vendas
+Desktop sales management system developed with C#.
+
+### Market Data Collector
+Python project that collects market candle data using API and WebSocket connections.
 
 ---
 
-# 🤝 Connect with me
+## GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](COLOQUE_AQUI_SEU_LINKEDIN)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wiztarp&show_icons=true&theme=tokyonight)
+
+---
+
+## Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wiztarp&layout=compact&theme=tokyonight&langs_count=6)
+
+---
+
+## Contact
+
+LinkedIn: www.linkedin.com/in/kenny-brisola-b27238191
+GitHub: https://github.com/wiztarp
